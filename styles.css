@@ -129,3 +129,9 @@ background-size: cover;
     align-self: center;
 
 }
+
+.contact-me:hover{
+    cursor: pointer;
+    background-color: white;
+    box-shadow: 1px 1px burlywood;
+}
