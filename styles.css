@@ -183,3 +183,30 @@ background-size: cover;
     box-shadow: 2px 2px 10px navy;
 }
 
+.project-text{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    flex-wrap: wrap;
+    max-width: 200px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.quote-section{
+    display: flex;
+    flex-direction: column;
+    padding: 128px 128px 96px;
+    background-color: lightblue;
+    border-bottom: solid black 1px;
+    font-size: 24px;
+    line-height: 150%;
+    font-style: italic;
+
+}
+
+.quote-section p{
+    text-align: end;
+    font-style: normal;
+    font-weight: 200;
+    color: sienna;
+}
